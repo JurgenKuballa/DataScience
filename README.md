@@ -1,6 +1,6 @@
 # DataScience
 
-This repository is a learning platform designed for educational purposes, specifically for students in Food Chemistry. Here, you can learn how to code in Python with practical applications in statistics, quality control, food authenticity, chemometrics, and machine learning (ML).
+This repository is a learning platform designed for educational purposes, specifically for students in Food Chemistry. Here, you can learn how to code in Python with practical applications in statistics, quality control, food authenticity, chemometrics, and machine learning (ML).  
 
 ## What You’ll Learn 
 
