@@ -2,7 +2,7 @@
 
 This repository is a learning platform designed for educational purposes, specifically for students in Food Chemistry. Here, you can learn how to code in Python with practical applications in statistics, quality control, food authenticity, chemometrics, and machine learning (ML).
 
-## What You’ll Learn
+## What You’ll Learn 
 
 - **Python Programming**: Basics to advanced topics, tailored for scientific applications.
 - **Statistics**: Concepts and tools for analyzing chemical data.
